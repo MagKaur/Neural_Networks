@@ -1,0 +1,5 @@
+TensorFlow #sieci neuronowe,
+matplotlib/seaborn #wykresy,
+numpy/pandas #dane,
+scikit-learn #podział danych i metryki,
+notebook/ipykernel #obsługa notebooka.
